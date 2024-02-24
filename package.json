@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JeelPatel2000/kafka-nodejs-getting-started/issues"
   },
-  "homepage": "https://github.com/JeelPatel2000/kafka-nodejs-getting-started#readme"
+  "homepage": "https://github.com/JeelPatel2000/kafka-nodejs-getting-started#readme",
+  "dependencies": {
+    "node-rdkafka": "^2.18.0"
+  }
 }
